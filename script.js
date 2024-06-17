@@ -10,7 +10,7 @@ button.addEventListener("click", function() {
     //  - If the water temp is greater than 32°, the user knows it's ok to drink.
     //  - If the water temp is 32° or less, the user knows the water is frozen.
     
-    
+    else if 
     
 });
 
